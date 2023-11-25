@@ -1,0 +1,48 @@
+.p-4{
+background-color: pink;
+}
+.display-4{
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Marhey', sans-serif;
+}
+.lead{
+    font-family: 'Libre Baskerville', serif;
+font-family: 'Roboto', sans-serif;
+
+}
+
+.custom-text-color{
+    color:#331a00;
+}
+
+.circles{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel-text{
+    color: #47BDBD;
+    background-color: aliceblue;
+}
+
+.contact{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    color:#331a00;
+}
+
+.btn-secondary{
+    margin: 2rem;
+
+}
+
+.py-3{
+    background-color: pink;
+}
+
+ul {
+    list-style-image: url('./images/icons8-flower-24.png');
+  }
+
